@@ -1,0 +1,3 @@
+org\byn\stickynotes\controllers\UserController.class
+org\byn\stickynotes\dao\UserDao.class
+org\byn\stickynotes\services\UserService.class
